@@ -15,3 +15,8 @@ I added examples of headers types 1 to 6
 var myVar = "Hello, world!";
 ```
 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
